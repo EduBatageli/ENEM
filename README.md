@@ -4,4 +4,4 @@ this project was made to train data analysis with pandas using public .csv from 
 
 1 - use this link to download file: https://download.inep.gov.br/microdados/microdados_enem_2021.zip
 2 - run "Tratando dados"
-3 - run new database in df variale 
+3 - run new database in df variable 
